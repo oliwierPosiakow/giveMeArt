@@ -22,7 +22,10 @@ export default {
     },
     colors: {
       text: "#000000",
-      accent: "#CB2B28"
+      accent: "#CB2B28",
+      gray: "#E5E5E7",
+      'dark-gray': "#9C9C9C",
+      white: "#FFFFFF",
     }
   },
   plugins: [],
