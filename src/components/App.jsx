@@ -4,6 +4,7 @@ import ProgressBar from "./ProgressBar.jsx";
 import Input from "./UI/Input.jsx";
 import Panel from "./UI/Panel.jsx";
 import Ad from './Ad.jsx'
+import Card from "./Card.jsx";
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
               <Panel text={'Realistic Look'}/>
           </div>
           <Ad/>
+          <Card/>
       </div>
   )
 }
