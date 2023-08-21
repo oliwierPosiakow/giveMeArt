@@ -2,6 +2,8 @@ import Nav from "./Nav.jsx";
 import Header from "./Header.jsx";
 import ProgressBar from "./ProgressBar.jsx";
 import Input from "./UI/Input.jsx";
+import Panel from "./UI/Panel.jsx";
+import Ad from './Ad.jsx'
 
 function App() {
 
@@ -11,6 +13,12 @@ function App() {
           <Header/>
           <ProgressBar/>
           <Input placeholder={'What do you want to create?'}/>
+          <div className='flex gap-3'>
+              <Panel text={'High Quality'}/>
+              <Panel text={'Pop Art'}/>
+              <Panel text={'Realistic Look'}/>
+          </div>
+          <Ad/>
       </div>
   )
 }
