@@ -9,6 +9,12 @@ export default {
     extend: {
       fontFamily: {
         'raleway' : ['Raleway', 'sans-serif' ],
+      },
+      fontWeight: {
+        medium: '400',
+        regular: '500',
+        'semi-bold': '600',
+        bold: '700'
       }
     },
     colors: {
