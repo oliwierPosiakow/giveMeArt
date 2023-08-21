@@ -15,6 +15,9 @@ export default {
         regular: '500',
         'semi-bold': '600',
         bold: '700'
+      },
+      backgroundImage:{
+        'pattern': "url('/backgroundPattern.svg')",
       }
     },
     colors: {

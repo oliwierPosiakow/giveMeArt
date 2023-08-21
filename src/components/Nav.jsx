@@ -1,8 +1,8 @@
 import React from 'react';
-import menu from '../../public/menuIcon.svg'
-import heart from '../../public/saveIcon.svg'
-import cart from '../../public/cartIcon.png'
-import user from '../../public/userIcon.png'
+import menu from '/menuIcon.svg'
+import heart from '/saveIcon.svg'
+import cart from '/cartIcon.png'
+import user from '/userIcon.png'
 function Nav() {
     return (
         <div className="flex flex-row justify-between w-full ">
