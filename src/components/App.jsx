@@ -1,6 +1,7 @@
 import Nav from "./Nav.jsx";
 import Header from "./Header.jsx";
 import ProgressBar from "./ProgressBar.jsx";
+import Input from "./UI/Input.jsx";
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
           <Nav/>
           <Header/>
           <ProgressBar/>
+          <Input placeholder={'What do you want to create?'}/>
       </div>
   )
 }

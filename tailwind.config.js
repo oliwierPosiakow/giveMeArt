@@ -26,6 +26,7 @@ export default {
       gray: "#E5E5E7",
       'dark-gray': "#9C9C9C",
       white: "#FFFFFF",
+      offwhite: "#F5F5F6",
     }
   },
   plugins: [],
