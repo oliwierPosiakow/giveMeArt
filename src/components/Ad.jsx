@@ -1,4 +1,3 @@
-import React from 'react';
 import boy from '/boyImg.png'
 import padlockIcon from '/padlockIcon.png'
 function Ad() {
