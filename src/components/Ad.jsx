@@ -10,7 +10,7 @@ function Ad() {
             </div>
             <div className='w-1/2 flex flex-col items-center justify-center bg-[#f2f2f5] gap-3'>
                 <p className='uppercase font-semi-bold text-[14px]'>minimalistic</p>
-                <div className='bg-accent py-2.5 px-5 shadow-[inset_2px_2px_6px_rgba(0,0,0,0.6)] rounded-lg'>
+                <div className='bg-accent py-2.5 px-6 shadow-[inset_4px_4px_10px_rgba(0,0,0,0.4)] rounded-lg'>
                     <p className='uppercase text-offwhite'>cartoon</p>
                 </div>
                 <div className='flex justify-center items-center gap-1'>

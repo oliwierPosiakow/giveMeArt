@@ -27,6 +27,7 @@ export default {
       'dark-gray': "#9C9C9C",
       white: "#FFFFFF",
       offwhite: "#F5F5F6",
+      gradientstart: '#CFCFD0'
     }
   },
   plugins: [],

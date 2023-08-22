@@ -21,8 +21,8 @@ function Card() {
 
             <div className='w-full flex justify-between align-middle bg-gray rounded-md mt-1 overflow-hidden'>
                 <p className='px-3 py-2 font-raleway font-medium'>punk heart, gothic</p>
-                <div className='px-3.5 py-2 bg-gradient-to-t from-[rgb(209, 209, 210)] to-[rgba(207, 207, 208, 0.00)]'>
-                    <p className='font-raleway font-medium uppercase'>artistic</p>
+                <div className='px-3.5 py-2 bg-gradient-to-b from-gradientstart to-[rgba(207, 207, 208, 0.00)]'>
+                    <p className='font-raleway font-medium uppercase text-[15px]'>artistic</p>
                 </div>
             </div>
 
